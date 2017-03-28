@@ -1,0 +1,1217 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "type": "speakers",
+      "attributes": {
+        "name": "Yehuda Katz",
+        "twitter": "https://twitter.com/wycats",
+        "photo-url": "http://emberconf.com/images/speakers/yehuda-katz.jpg",
+        "bio-html": "Yehuda is a member of the Ember.js, Ruby on Rails and jQuery Core Teams; his 9-to-5 home is at the startup he founded, <a target=\"_blank\" href=\"http://www.tilde.io\">Tilde Inc</a>, where he works on <a target=\"_blank\" href=\"http://www.skylight.io\">Skylight</a>, the smart profiler for Rails. Yehuda spends most of his time hacking on open source—his main projects, along with others, like Thor, Handlebars and Janus—and traveling the world doing open source evangelism work.",
+        "bio-text": "Yehuda is a member of the Ember.js, Ruby on Rails and jQuery Core Teams; his 9-to-5 home is at the startup he founded, Tilde Inc, where he works on Skylight, the smart profiler for Rails. Yehuda spends most of his time hacking on open source—his main projects, along with others, like Thor, Handlebars and Janus—and traveling the world doing open source evangelism work."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 1
+            },
+            {
+              "type": "tags",
+              "id": 2
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "speakers",
+      "attributes": {
+        "name": "Sarah Mei",
+        "twitter": "https://twitter.com/sarahmei",
+        "photo-url": "http://emberconf.com/images/speakers/sarah-mei.png",
+        "bio-html": "Sarah is a Ruby and JavaScript developer based in San Francisco, California. She's the Chief Consultant at DevMynd Software, where she spends most of her time pairing with clients’ developers, helping level up their team. Her particular areas of interest are OOP, service refactorings, growing teams, and inter-developer dynamics.",
+        "bio-text": "Sarah is a Ruby and JavaScript developer based in San Francisco, California. She's the Chief Consultant at DevMynd Software, where she spends most of her time pairing with clients’ developers, helping level up their team. Her particular areas of interest are OOP, service refactorings, growing teams, and inter-developer dynamics."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 1
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "speakers",
+      "attributes": {
+        "name": "Tom Dale",
+        "twitter": "https://twitter.com/tomdale",
+        "photo-url": "http://emberconf.com/images/speakers/tom-dale.jpg",
+        "bio-html": "Tom is a member of the Ember Core Team. He's a former Apple engineer who first gained expert front-end JavaScript skills working on MobileMe and iCloud. He's a super hipster, and still isn't sure if it's serious or ironic.",
+        "bio-text": "Tom is a member of the Ember Core Team. He's a former Apple engineer who first gained expert front-end JavaScript skills working on MobileMe and iCloud. He's a super hipster, and still isn't sure if it's serious or ironic."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 1
+            },
+            {
+              "type": "tags",
+              "id": 2
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "type": "speakers",
+      "attributes": {
+        "name": "Leah Silber",
+        "twitter": "https://twitter.com/wifelette",
+        "photo-url": "http://emberconf.com/images/speakers/leah-silber.jpg",
+        "bio-html": "Leah is an all-around open source advocate. During the day time, she's CEO at <a target=\"_blank\" href=\"http://www.tilde.io\">Tilde Inc</a>, the open-source-centric company behind <a target=\"_blank\" href=\"http://www.skylight.io\">Skylight</a>. In her spare time, in addition to running EmberConf, Leah works on GoGaRuCo, RailsConf, and a number of User Groups. She's a retired member of the jQuery Core Team, and a member of the Ember Core Team.",
+        "bio-text": "Leah is an all-around open source advocate. During the day time, she's CEO at Tilde Inc, the open-source-centric company behind Skylight. In her spare time, in addition to running EmberConf, Leah works on GoGaRuCo, RailsConf, and a number of User Groups. She's a retired member of the jQuery Core Team, and a member of the Ember Core Team."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 2
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "type": "speakers",
+      "attributes": {
+        "name": "Casey Watts",
+        "twitter": "https://twitter.com/kyloma",
+        "photo-url": "http://emberconf.com/images/speakers/casey-watts.jpg",
+        "bio-html": "Casey Watts works for Heroku, doing Ember. His super-power is empathy and helping others become more empathetic. He never leaves home without bubbles. He has a background both in psychology and in software development, making him well prepared to discuss psychology with developers. He studied neurobiology at Yale University, and he co-published a few neurobiology papers.",
+        "bio-text": "Casey Watts works for Heroku, doing Ember. His super-power is empathy and helping others become more empathetic. He never leaves home without bubbles. He has a background both in psychology and in software development, making him well prepared to discuss psychology with developers. He studied neurobiology at Yale University, and he co-published a few neurobiology papers."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 11
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "speakers",
+      "attributes": {
+        "name": "Samanta de Barros",
+        "photo-url": "http://emberconf.com/images/speakers/samanta-de-barros.jpg",
+        "bio-html": "Samanta has been a software engineer since 2006. While working at WyeWorks, she's been doing Ember at CrazyEgg for the last two years. Recently, she started contributing to the Ember ecosystem with <code>ember-qunit-nice-errors</code>.<br><br>She's a runner in development, sugar addict in recovery, and on her way to try every tea in the world.",
+        "bio-text": "Samanta has been a software engineer since 2006. While working at WyeWorks, she's been doing Ember at CrazyEgg for the last two years. Recently, she started contributing to the Ember ecosystem with ember-qunit-nice-errors.She's a runner in development, sugar addict in recovery, and on her way to try every tea in the world."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 13
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "speakers",
+      "attributes": {
+        "name": "Gavin Joyce",
+        "twitter": "https://twitter.com/gavinjoyce",
+        "photo-url": "http://emberconf.com/images/speakers/gavin-joyce.jpg",
+        "bio-html": "Gavin hails from Dublin, Ireland and helps build amazing products at Intercom with Ember.js.",
+        "bio-text": "Gavin hails from Dublin, Ireland and helps build amazing products at Intercom with Ember.js."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 16,
+      "type": "speakers",
+      "attributes": {
+        "name": "Jessica Jordan",
+        "twitter": "https://twitter.com/jjordan_dev",
+        "photo-url": "http://emberconf.com/images/speakers/jessica-jordan.jpg",
+        "bio-html": "Jessica is a biologist, turned front-end developer who is a big fan of CSS3, web comics and Ember.js.",
+        "bio-text": "Jessica is a biologist, turned front-end developer who is a big fan of CSS3, web comics and Ember.js."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 17
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "speakers",
+      "attributes": {
+        "name": "Balint Erdi",
+        "twitter": "https://twitter.com/baaz",
+        "photo-url": "http://emberconf.com/images/speakers/balint-erdi.jpg",
+        "bio-html": "Balint Erdi is a total Ember.js enthusiast. He has given talks at conferences, held workshops, written dozens of blog posts, made a screencast series and wrote a book, Rock and Roll with Ember.js, which is the most up-to-date book on Ember.",
+        "bio-text": "Balint Erdi is a total Ember.js enthusiast. He has given talks at conferences, held workshops, written dozens of blog posts, made a screencast series and wrote a book, Rock and Roll with Ember.js, which is the most up-to-date book on Ember."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 19
+            },
+            {
+              "type": "sessions",
+              "id": 20
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "speakers",
+      "attributes": {
+        "name": "Lauren Elizabeth Tan",
+        "twitter": "https://twitter.com/sugarpirate_",
+        "photo-url": "http://emberconf.com/images/speakers/lauren-tan.jpg",
+        "bio-html": "Lauren is a Senior Software Engineer at Netflix. She gave her first ever conference talk at EmberConf 2015, and loved it so much she decided to go all in and do more. Lauren frequently writes about Ember.js at her blog on medium, maintains many popular addons, enjoys bubble tea, and has a little puppy named Zelda.",
+        "bio-text": "Lauren is a Senior Software Engineer at Netflix. She gave her first ever conference talk at EmberConf 2015, and loved it so much she decided to go all in and do more. Lauren frequently writes about Ember.js at her blog on medium, maintains many popular addons, enjoys bubble tea, and has a little puppy named Zelda."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 22
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 23,
+      "type": "speakers",
+      "attributes": {
+        "name": "Edward Faulkner",
+        "twitter": "https://twitter.com/eaf4",
+        "photo-url": "http://emberconf.com/images/speakers/edward-faulkner.png",
+        "bio-html": "Edward Faulkner is a member of the Ember Core Team and the creator of Ember's official animation library. His open source code is running on mainstream gaming consoles, major social media sites, and hordes of enterprise applications. His consultancy, Polynomial LLC, leads ambitious software projects for a diverse group of businesses and nonprofits. He is a research associate of the MIT Media Lab's Social Computing group, and was previously a lead engineer at Akamai Technologies.",
+        "bio-text": "Edward Faulkner is a member of the Ember Core Team and the creator of Ember's official animation library. His open source code is running on mainstream gaming consoles, major social media sites, and hordes of enterprise applications. His consultancy, Polynomial LLC, leads ambitious software projects for a diverse group of businesses and nonprofits. He is a research associate of the MIT Media Lab's Social Computing group, and was previously a lead engineer at Akamai Technologies."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 2
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 24
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 25,
+      "type": "speakers",
+      "attributes": {
+        "name": "Fisayo Oluwadiya",
+        "photo-url": "http://emberconf.com/images/speakers/fisayo-oluwadiya.jpg",
+        "bio-html": "Fisayo is an applications developer lead at a large organization that has built a UI framework on top of Ember. Their goal is to provide components that are accessible and mobile-ready for application development. When not coding, Fisayo can be found eating, cooking, singing, hanging out with friends or hiking (in no particular order).",
+        "bio-text": "Fisayo is an applications developer lead at a large organization that has built a UI framework on top of Ember. Their goal is to provide components that are accessible and mobile-ready for application development. When not coding, Fisayo can be found eating, cooking, singing, hanging out with friends or hiking (in no particular order)."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 26
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 27,
+      "type": "speakers",
+      "attributes": {
+        "name": "Miguel Camba",
+        "twitter": "https://twitter.com/miguelcamba",
+        "photo-url": "http://emberconf.com/images/speakers/miguel-camba.png",
+        "bio-html": "Miguel is a Spanish freelance developer now settled in London, where he helps companies build complex app with Ruby, Ember and Elixir. He likes to rant about broken Javascript stuff, but then feels bad, deletes the rant and attempts to fix them.",
+        "bio-text": "Miguel is a Spanish freelance developer now settled in London, where he helps companies build complex app with Ruby, Ember and Elixir. He likes to rant about broken Javascript stuff, but then feels bad, deletes the rant and attempts to fix them."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 28
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 29,
+      "type": "speakers",
+      "attributes": {
+        "name": "Madison Kerndt",
+        "twitter": "https://twitter.com/mkerndt",
+        "photo-url": "http://emberconf.com/images/speakers/madison-kerndt.jpg",
+        "bio-html": "Madison derives a deep sense of purpose from building visceral experiences with technology is my passion. She is am a front-end engineer and graduate from Turing School of Software &amp; Design. With a background in startups, she joined Techstars as a technical associate for the 2017 class. She enjoys bringing people together to relay complex topics in a relatable fashion. Her journey has afforded her the opportunities to pick up skills that she uses to advance her learning and the learning of those in her community.",
+        "bio-text": "Madison derives a deep sense of purpose from building visceral experiences with technology is my passion. She is am a front-end engineer and graduate from Turing School of Software & Design. With a background in startups, she joined Techstars as a technical associate for the 2017 class. She enjoys bringing people together to relay complex topics in a relatable fashion. Her journey has afforded her the opportunities to pick up skills that she uses to advance her learning and the learning of those in her community."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 30
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "speakers",
+      "attributes": {
+        "name": "Godfrey Chan",
+        "twitter": "https://twitter.com/chancancode",
+        "photo-url": "http://emberconf.com/images/speakers/godfrey-chan.jpg",
+        "bio-html": "Godfrey Chan is a member of the Ruby on Rails core team and an Ember.js Core Team Member. He currently works at <a target=\"_blank\" href=\"http://www.tilde.io\">Tilde</a> as an in-house Canadian. In his previous life, he was also an award-winning WordPress™ plugin author.",
+        "bio-text": "Godfrey Chan is a member of the Ruby on Rails core team and an Ember.js Core Team Member. He currently works at Tilde as an in-house Canadian. In his previous life, he was also an award-winning WordPress™ plugin author."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 2
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 32
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 33,
+      "type": "speakers",
+      "attributes": {
+        "name": "Ingrid Epure",
+        "twitter": "https://twitter.com/ingridepure",
+        "photo-url": "http://emberconf.com/images/speakers/ingrid-epure.jpeg",
+        "bio-html": "Ingrid is a full stack engineer at Intercom.",
+        "bio-text": "Ingrid is a full stack engineer at Intercom."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 34
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 35,
+      "type": "speakers",
+      "attributes": {
+        "name": "Alex Matchneer",
+        "twitter": "https://twitter.com/machty",
+        "photo-url": "http://emberconf.com/images/speakers/alex-matchneer.png",
+        "bio-html": "Alex was a member of the Ember.js Core Team before the startup lifestyle consumed all of his spare time. He wrote the ember-concurrency addon and continues use Ember everyday while building and maintain a suite of mobile Ember apps.",
+        "bio-text": "Alex was a member of the Ember.js Core Team before the startup lifestyle consumed all of his spare time. He wrote the ember-concurrency addon and continues use Ember everyday while building and maintain a suite of mobile Ember apps."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 2
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 36
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 37,
+      "type": "speakers",
+      "attributes": {
+        "name": "Jen Weber",
+        "twitter": "https://twitter.com/jwwweber",
+        "photo-url": "http://emberconf.com/images/speakers/jen-weber.jpg",
+        "bio-html": "Jen Weber is a UI/UX Developer at BioBright, where she builds applications that help scientists manage their data, visualize sensor output, and augment their lab workflow. She uses Ember to explore new ways for researchers to interact with their environment and experimental results. She is a proud graduate of General Assembly of Boston’s web development bootcamp.",
+        "bio-text": "Jen Weber is a UI/UX Developer at BioBright, where she builds applications that help scientists manage their data, visualize sensor output, and augment their lab workflow. She uses Ember to explore new ways for researchers to interact with their environment and experimental results. She is a proud graduate of General Assembly of Boston’s web development bootcamp."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 39,
+      "type": "speakers",
+      "attributes": {
+        "name": "Oli Griffiths",
+        "twitter": "https://twitter.com/Oligriffiths",
+        "photo-url": "http://emberconf.com/images/speakers/oli-griffiths.png",
+        "bio-html": "Senior software engineer at Tumblr with over 10 years experience, building high resilience, web scale software that powers all the dank memes.",
+        "bio-text": "Senior software engineer at Tumblr with over 10 years experience, building high resilience, web scale software that powers all the dank memes."
+      },
+      "relationships": {
+        "tags": {
+          "data": []
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 40
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 41,
+      "type": "speakers",
+      "attributes": {
+        "name": "Bear Douglas",
+        "twitter": "https://twitter.com/beardigsit",
+        "photo-url": "http://emberconf.com/images/speakers/bear-douglas.jpg",
+        "bio-html": "Bear Douglas is an accomplished public speaker with nearly 15 years’ experience on stage and in the performing arts. In the past three years alone, Bear has given over 130 professional presentations to technical and non-technical audiences of all sizes. She currently leads the mobile developer relations team at Twitter; previously, she was at Facebook and a smattering of SF-based startups.",
+        "bio-text": "Bear Douglas is an accomplished public speaker with nearly 15 years’ experience on stage and in the performing arts. In the past three years alone, Bear has given over 130 professional presentations to technical and non-technical audiences of all sizes. She currently leads the mobile developer relations team at Twitter; previously, she was at Facebook and a smattering of SF-based startups."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 42
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 43
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 44,
+      "type": "speakers",
+      "attributes": {
+        "name": "Sam Selikoff",
+        "twitter": "https://twitter.com/samselikoff",
+        "photo-url": "http://emberconf.com/images/speakers/sam-selikoff.jpeg",
+        "bio-html": "Sam Selikoff is a co-founder of EmberMap, a video training site for Ember.js teams. Previously a front-end engineer at TED, he now spends his time sharing his knowledge with the Ember community through videos, blog posts, and consulting.",
+        "bio-text": "Sam Selikoff is a co-founder of EmberMap, a video training site for Ember.js teams. Previously a front-end engineer at TED, he now spends his time sharing his knowledge with the Ember community through videos, blog posts, and consulting."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 42
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 45
+            },
+            {
+              "type": "sessions",
+              "id": 46
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 47,
+      "type": "speakers",
+      "attributes": {
+        "name": "Ryan Toronto",
+        "twitter": "https://twitter.com/ryantotweets",
+        "photo-url": "http://emberconf.com/images/speakers/ryan-toronto.jpg",
+        "bio-html": "Ryan has been developing Ember applications since 2012. In addition to shipping dozens of apps for both web and mobile devices, he's led various Ember teams and projects. He also makes Ember screencasts and blog regularly to share his knowledge with the Ember community.",
+        "bio-text": "Ryan has been developing Ember applications since 2012. In addition to shipping dozens of apps for both web and mobile devices, he's led various Ember teams and projects. He also makes Ember screencasts and blog regularly to share his knowledge with the Ember community."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 42
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 48
+            },
+            {
+              "type": "sessions",
+              "id": 49
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 50,
+      "type": "speakers",
+      "attributes": {
+        "name": "Serena Fritsch",
+        "twitter": "https://twitter.com/serifritsch",
+        "photo-url": "http://emberconf.com/images/speakers/serena-fritsch.png",
+        "bio-html": "Serena is a product engineer working for Intercom in Dublin, Ireland. She started working with Ember 1.5 years ago and never looked back. In her spare time she loves to meet like minded, enthusiastic people by hosting the EmberJS Dublin meetup. She also can be found mentoring at female-friendly workshops, drinking way too much coffee and finding the next great recipe for a chocolate tart.",
+        "bio-text": "Serena is a product engineer working for Intercom in Dublin, Ireland. She started working with Ember 1.5 years ago and never looked back. In her spare time she loves to meet like minded, enthusiastic people by hosting the EmberJS Dublin meetup. She also can be found mentoring at female-friendly workshops, drinking way too much coffee and finding the next great recipe for a chocolate tart."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 51
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 52
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 53,
+      "type": "speakers",
+      "attributes": {
+        "name": "Melissa Roman",
+        "twitter": "https://twitter.com/MelissaRoman26",
+        "photo-url": "http://emberconf.com/images/speakers/melissa-roman.jpg",
+        "bio-html": "Melissa is an Ember developer at Ticketfly.",
+        "bio-text": "Melissa is an Ember developer at Ticketfly."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 51
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 54
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 55,
+      "type": "speakers",
+      "attributes": {
+        "name": "Philippe De Ryck",
+        "twitter": "https://twitter.com/PhilippeDeRyck",
+        "photo-url": "http://emberconf.com/images/speakers/philippe-de-ryck.png",
+        "bio-html": "Philippe De Ryck is a professional speaker and trainer on software security and web security. Since he obtained his PhD at the imec-DistriNet research group (KU Leuven, Belgium), he has been running the group's Web Security Training program. This training program ensures a sustainable knowledge transfer of the group’s security expertise towards practitioners, enabling them to build better and more secure applications.",
+        "bio-text": "Philippe De Ryck is a professional speaker and trainer on software security and web security. Since he obtained his PhD at the imec-DistriNet research group (KU Leuven, Belgium), he has been running the group's Web Security Training program. This training program ensures a sustainable knowledge transfer of the group’s security expertise towards practitioners, enabling them to build better and more secure applications."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 42
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 56
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 57,
+      "type": "speakers",
+      "attributes": {
+        "name": "Laura Lebovic",
+        "twitter": "https://twitter.com/LauraLebovic",
+        "photo-url": "http://emberconf.com/images/speakers/laura-lebovic.jpg",
+        "bio-html": "Software Engineer @showmyhomework. Passionate about Ember, Ruby on Rails, Pop Rock gigs and Fooding. EmberConf and NOS Alive Festival are my next stops. Come say hi!",
+        "bio-text": "Software Engineer @showmyhomework. Passionate about Ember, Ruby on Rails, Pop Rock gigs and Fooding. EmberConf and NOS Alive Festival are my next stops. Come say hi!"
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 51
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 58
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 59,
+      "type": "speakers",
+      "attributes": {
+        "name": "Melanie Sumner",
+        "twitter": "https://twitter.com/melaniersumner",
+        "photo-url": "http://emberconf.com/images/speakers/melanie-sumner.jpeg",
+        "bio-html": "Melanie taught herself how to code as a hobby starting back in 1997, and decided to make a career of it after her enlistment in the U.S. Navy ended in 2005. She now works as a developer and accessibility consultant at a leading global financial services firm, and is a member of the `ember-a11y` community team.",
+        "bio-text": "Melanie taught herself how to code as a hobby starting back in 1997, and decided to make a career of it after her enlistment in the U.S. Navy ended in 2005. She now works as a developer and accessibility consultant at a leading global financial services firm, and is a member of the `ember-a11y` community team."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 51
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 60
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 61,
+      "type": "speakers",
+      "attributes": {
+        "name": "Todd Jordan",
+        "twitter": "https://twitter.com/tddjordan",
+        "photo-url": "http://emberconf.com/images/speakers/todd-jordan.jpg",
+        "bio-html": "Todd is a senior web application developer at Interactive Intelligence with over 16 years of industry software development experience. He is currently working on an ambitious realtime collaboration app, written in Ember. He resides in Raleigh, NC with his wife and three kids.",
+        "bio-text": "Todd is a senior web application developer at Interactive Intelligence with over 16 years of industry software development experience. He is currently working on an ambitious realtime collaboration app, written in Ember. He resides in Raleigh, NC with his wife and three kids."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 51
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 62
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 63,
+      "type": "speakers",
+      "attributes": {
+        "name": "Mike North",
+        "twitter": "https://twitter.com/MichaelLNorth",
+        "photo-url": "http://emberconf.com/images/speakers/mike-north.jpg",
+        "bio-html": "Mike is a global speaker, trainer and modern web consultant. Previously he was the CTO of Levanto Financial, and the UI Architect of Yahoo Ads &amp; Data. He's a Front End Masters instructor, a Pluralsight author, and at his core a 'product guy who codes'. Mike has a passion for helping developers master the tools they're working with, in the interest of team productivity and happiness.",
+        "bio-text": "Mike is a global speaker, trainer and modern web consultant. Previously he was the CTO of Levanto Financial, and the UI Architect of Yahoo Ads & Data. He's a Front End Masters instructor, a Pluralsight author, and at his core a 'product guy who codes'. Mike has a passion for helping developers master the tools they're working with, in the interest of team productivity and happiness."
+      },
+      "relationships": {
+        "tags": {
+          "data": [
+            {
+              "type": "tags",
+              "id": 42
+            }
+          ]
+        },
+        "sessions": {
+          "data": [
+            {
+              "type": "sessions",
+              "id": 64
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "id": 1,
+      "type": "tags",
+      "attributes": {
+        "name": "Keynote"
+      }
+    },
+    {
+      "id": 2,
+      "type": "tags",
+      "attributes": {
+        "name": "Core"
+      }
+    },
+    {
+      "id": 3,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:45:00-07:00",
+        "end-time": "2017-03-28T10:30:00-07:00",
+        "title": "Opening Keynote",
+        "time": "9:45 am-10:30 am",
+        "description-html": "",
+        "description-text": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T17:30:00-07:00",
+        "end-time": "2017-03-28T18:00:00-07:00",
+        "title": "Closing Keynote",
+        "time": "5:30 pm-6:00 pm",
+        "description-html": "",
+        "description-text": ""
+      }
+    },
+    {
+      "id": 7,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:45:00-07:00",
+        "end-time": "2017-03-28T10:30:00-07:00",
+        "title": "Opening Keynote",
+        "time": "9:45 am-10:30 am",
+        "description-html": "",
+        "description-text": ""
+      }
+    },
+    {
+      "id": 9,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T15:00:00-07:00",
+        "end-time": "2017-03-28T15:30:00-07:00",
+        "title": "EmberConf MiniTalks",
+        "time": "3:00 pm-3:30 pm",
+        "description-html": "Think lightning talks, but better curated and better prepared. We've selected a handful of really great topics that are critical to get before the EmberConf audience, but not necessarily needing a full 30 minutes.",
+        "description-text": "Think lightning talks, but better curated and better prepared. We've selected a handful of really great topics that are critical to get before the EmberConf audience, but not necessarily needing a full 30 minutes."
+      }
+    },
+    {
+      "id": 11,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T11:30:00-07:00",
+        "end-time": "2017-03-28T12:00:00-07:00",
+        "title": "A Neurobiologist's Guide to Mind Manipulation",
+        "time": "11:30 am-12:00 pm",
+        "description-html": "A useful-psychology double-whammy: (A) Developers are great systems thinkers. Surprise: your brain is a system too! Reframe frustration into accomplishment, and become a more effective and bubbly person using a frontal cortex feedback loop. (B) Want your team to be the happiest, most productive team around? Recent psychology research reveals one key attribute of the most successful teams, and it's within your influence.",
+        "description-text": "A useful-psychology double-whammy: (A) Developers are great systems thinkers. Surprise: your brain is a system too! Reframe frustration into accomplishment, and become a more effective and bubbly person using a frontal cortex feedback loop. (B) Want your team to be the happiest, most productive team around? Recent psychology research reveals one key attribute of the most successful teams, and it's within your influence."
+      }
+    },
+    {
+      "id": 13,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T10:45:00-07:00",
+        "end-time": "2017-03-28T11:15:00-07:00",
+        "title": "Going Progressive with Ember",
+        "time": "10:45 am-11:15 am",
+        "description-html": "<em>“Mobile internet usage surpasses desktop usage for the first time in history.”</em><br>Headlines like this are the result of a quick Google search for mobile vs desktop internet usage statistics in 2016. So, what are we doing to engage those mobile users with our Ember app? How can we improve their experience?<br>Let's walk together through the process of building a PWA, what makes one one, why are they important and how can we reach to the Ember ecosystem to aid us in our work.",
+        "description-text": "“Mobile internet usage surpasses desktop usage for the first time in history.”Headlines like this are the result of a quick Google search for mobile vs desktop internet usage statistics in 2016. So, what are we doing to engage those mobile users with our Ember app? How can we improve their experience?Let's walk together through the process of building a PWA, what makes one one, why are they important and how can we reach to the Ember ecosystem to aid us in our work."
+      }
+    },
+    {
+      "id": 15,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T16:45:00-07:00",
+        "end-time": "2017-03-28T17:15:00-07:00",
+        "title": "An Animated Guide to Ember Internals",
+        "time": "4:45 pm-5:15 pm",
+        "description-html": "Having a good mental model of how Ember works is invaluable, it allows you to be more productive and fully leverage the framework.<br>With the aid of some slick animations, we'll take a look at some of the internal moving parts that make up an Ember application. We'll explore routing, data flow and actions, the run loop, event dispatching and DOM rendering and updating.",
+        "description-text": "Having a good mental model of how Ember works is invaluable, it allows you to be more productive and fully leverage the framework.With the aid of some slick animations, we'll take a look at some of the internal moving parts that make up an Ember application. We'll explore routing, data flow and actions, the run loop, event dispatching and DOM rendering and updating."
+      }
+    },
+    {
+      "id": 17,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T16:00:00-07:00",
+        "end-time": "2017-03-28T16:30:00-07:00",
+        "title": "Animate the Web with Ember.js",
+        "time": "4:00 pm-4:30 pm",
+        "description-html": "Were you a fan of animated cartoons as a kid, and wondered if one day you could create your own? Here's the great news: you can! Using open web standards and Ember.js you're able to create frame-by-frame animations—and even to make them interactive!<br>This talk will explain why open web standards are more important than ever for creating animated content. We'll see how we can leverage the power of HTML5 Canvas in Ember efficiently and how to make animations interactive with the support of actions.",
+        "description-text": "Were you a fan of animated cartoons as a kid, and wondered if one day you could create your own? Here's the great news: you can! Using open web standards and Ember.js you're able to create frame-by-frame animations—and even to make them interactive!This talk will explain why open web standards are more important than ever for creating animated content. We'll see how we can leverage the power of HTML5 Canvas in Ember efficiently and how to make animations interactive with the support of actions."
+      }
+    },
+    {
+      "id": 19,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:00:00-07:00",
+        "end-time": "2017-03-28T12:00:00-07:00",
+        "title": "Secure Authentication with OAuth 2.0 in Ember",
+        "time": "9:00 am-12:00 pm",
+        "description-html": "",
+        "description-text": "You've surely heard of OAuth 2.0 before, but did you know that the protocol has of four distinct flows? Each of these flows supports an explicit deployment scenario, and misusing these flows will likely cause your application to be vulnerable to various attacks.In this workshop, attendees will learn how to correctly implement OAuth 2.0 into Ember applications using ember-simple-auth and Torii. On top of that, we will go over the most common security issues in OAuth 2.0 implementations, and how you can mitigate them in your application.At the end of the workshop, attendees will understand what OAuth 2.0 is all about, and how they can integrate it using the Torii library. They’ll have a clear view on which OAuth 2.0 strategy (flow) to choose depending on the use case. On top of that, they will understand common security issues in OAuth 2.0 implementations, and how to effectively mitigate them.During the hands-on exercises, attendees will implement OAuth 2.0 support in a realistic training application. The exercises will be fully documented, and attendees will be able to use the provided application as a reference after the workshop.Ticket price of $299, space limited."
+      }
+    },
+    {
+      "id": 20,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T16:45:00-07:00",
+        "end-time": "2017-03-28T17:15:00-07:00",
+        "title": "Data Loading Patterns with JSON API",
+        "time": "4:45 pm-5:15 pm",
+        "description-html": "Data communication with the API server is a principal design question in rich-client apps. The talk ponders the design angles and gives several examples of data communication between Ember (Data) and a <code>JSON:API</code> compliant backend.",
+        "description-text": "Data communication with the API server is a principal design question in rich-client apps. The talk ponders the design angles and gives several examples of data communication between Ember (Data) and a JSON:API compliant backend."
+      }
+    },
+    {
+      "id": 22,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T14:15:00-07:00",
+        "end-time": "2017-03-28T14:45:00-07:00",
+        "title": "Confessions of an Ember Addon Author",
+        "time": "2:15 pm-2:45 pm",
+        "description-html": "Addons are one of the best things about the Ember eco-system. With one command, you can opt into using a well tested addon that does some of the heavy-lifting for you when building complex applications. The next best thing is that sharing your solution for solving problems is very simple; it's not a big leap going from Ember developer to addon author!<br>A healthy addon eco-system is one of the key strengths of Ember, and in this talk we'll discover some best practices, tips and tricks and other exciting confessions from a self-confessed addon addict!",
+        "description-text": "Addons are one of the best things about the Ember eco-system. With one command, you can opt into using a well tested addon that does some of the heavy-lifting for you when building complex applications. The next best thing is that sharing your solution for solving problems is very simple; it's not a big leap going from Ember developer to addon author!A healthy addon eco-system is one of the key strengths of Ember, and in this talk we'll discover some best practices, tips and tricks and other exciting confessions from a self-confessed addon addict!"
+      }
+    },
+    {
+      "id": 24,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:45:00-07:00",
+        "end-time": "2017-03-28T10:30:00-07:00",
+        "title": "Empowering the Next Million Creators",
+        "time": "9:45 am-10:30 am",
+        "description-html": "Ember isn't just about making developers more efficient. It's about empowering a wider audience to become creators and developers. How do we bridge the gap between our vibrant community and the next million people who have things they want to make but have no idea how to even collaborate with us?<br>We already have the foundations of great content-creation tools that will allow authors, site builders, themers, and devs to speak the same language and build higher together. What if anyone could ship their own first app with no coding, but with the power of Ember's community under the hood?",
+        "description-text": "Ember isn't just about making developers more efficient. It's about empowering a wider audience to become creators and developers. How do we bridge the gap between our vibrant community and the next million people who have things they want to make but have no idea how to even collaborate with us?We already have the foundations of great content-creation tools that will allow authors, site builders, themers, and devs to speak the same language and build higher together. What if anyone could ship their own first app with no coding, but with the power of Ember's community under the hood?"
+      }
+    },
+    {
+      "id": 26,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T16:00:00-07:00",
+        "end-time": "2017-03-28T16:30:00-07:00",
+        "title": "Ember in a Large Organization",
+        "time": "4:00 pm-4:30 pm",
+        "description-html": "As an employee of a large organization, I can attest to the fact that there are VERY many benefits to using Ember. That said, there are also unique challenges to <em>using</em> the framework e.g. asset size, security concerns and upgrade frequency, amongst others. This talk will focus on the benefits and unique aspects of these issues and how we have attempted to resolve them in our organization.",
+        "description-text": "As an employee of a large organization, I can attest to the fact that there are VERY many benefits to using Ember. That said, there are also unique challenges to using the framework e.g. asset size, security concerns and upgrade frequency, amongst others. This talk will focus on the benefits and unique aspects of these issues and how we have attempted to resolve them in our organization."
+      }
+    },
+    {
+      "id": 28,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T17:30:00-07:00",
+        "end-time": "2017-03-28T18:00:00-07:00",
+        "title": "Higher Order Components",
+        "time": "5:30 pm-6:00 pm",
+        "description-html": "Since the <code>component</code> keyword and the <code>hash</code> helper were introduced to the framework, a whole new realm of APIs has become possible and yet the broader community has yet to fully embrace these powerful abstractions. With this talk I will help to spread awareness of the dormant power that developers have to hand, and how and when to use them.",
+        "description-text": "Since the component keyword and the hash helper were introduced to the framework, a whole new realm of APIs has become possible and yet the broader community has yet to fully embrace these powerful abstractions. With this talk I will help to spread awareness of the dormant power that developers have to hand, and how and when to use them."
+      }
+    },
+    {
+      "id": 30,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T11:30:00-07:00",
+        "end-time": "2017-03-28T12:00:00-07:00",
+        "title": "Mastering Ember from the Perspective of a N00b",
+        "time": "11:30 am-12:00 pm",
+        "description-html": "Often times the last person to learn a topic is the best person to teach it. Working within a framework that rapidly changes, we consistently find ourselves in the position of the learner. With fresh eyes, I will reveal common bumps along the path to mastering Ember. Geared towards experts and beginners alike, we will map concepts from a simple CRUD application to relatable mental models in order to demystify the Ember magic. On-boarding new developers and learning new concepts is essential to continuing the growth of the Ember community. Join me to level up!",
+        "description-text": "Often times the last person to learn a topic is the best person to teach it. Working within a framework that rapidly changes, we consistently find ourselves in the position of the learner. With fresh eyes, I will reveal common bumps along the path to mastering Ember. Geared towards experts and beginners alike, we will map concepts from a simple CRUD application to relatable mental models in order to demystify the Ember magic. On-boarding new developers and learning new concepts is essential to continuing the growth of the Ember community. Join me to level up!"
+      }
+    },
+    {
+      "id": 32,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T14:00:00-07:00",
+        "title": "Understanding JavaScript Performance",
+        "time": "1:30 pm-2:00 pm",
+        "description-html": "Everyone wants their apps to be fast. However, it is not always clear how to get there. In this talk, we will dig into the internals of JavaScript engines to understand why performance is often so counterintuitive. What is a JIT, and how does it make my code fast? Where does it fall short? We will also discuss why you shouldn't trust micro-benchmarks and some better ways to measure real-world performance.",
+        "description-text": "Everyone wants their apps to be fast. However, it is not always clear how to get there. In this talk, we will dig into the internals of JavaScript engines to understand why performance is often so counterintuitive. What is a JIT, and how does it make my code fast? Where does it fall short? We will also discuss why you shouldn't trust micro-benchmarks and some better ways to measure real-world performance."
+      }
+    },
+    {
+      "id": 34,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T14:15:00-07:00",
+        "end-time": "2017-03-28T14:45:00-07:00",
+        "title": "Counter-spells and the Art of Keeping Your Application Safe",
+        "time": "2:15 pm-2:45 pm",
+        "description-html": "Ember plays an important role in ensuring that your application is secure from an attack, however engineers share part of the responsibility. Awareness of how you can harness all the power of Ember's security capabilities and and the additional steps you need to take to prevent security exploits is very important and will make life easier in assessing the current state of your application and planning for the future.<br>In this talk we will explore some important security concerns, pitfalls and mitigations that we have learnt over the past four years of building Intercom.",
+        "description-text": "Ember plays an important role in ensuring that your application is secure from an attack, however engineers share part of the responsibility. Awareness of how you can harness all the power of Ember's security capabilities and and the additional steps you need to take to prevent security exploits is very important and will make life easier in assessing the current state of your application and planning for the future.In this talk we will explore some important security concerns, pitfalls and mitigations that we have learnt over the past four years of building Intercom."
+      }
+    },
+    {
+      "id": 36,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T14:00:00-07:00",
+        "title": "State, Time, and Concurrency",
+        "time": "1:30 pm-2:00 pm",
+        "description-html": "Modeling changes to state over time is a challenge that most modern app developers have to face. The <code>ember-concurrency</code> addon went a long way toward simplifying many of the challenges inherent in safely modeling asynchronous operations, but there is more work to be done.<br>This talk is about time, state management, <code>ember-concurrency</code>, immutability, and how a lot of tricky problems disappear when you rigorously commit to the goal of minimizing non-essential state in favor of derived state.",
+        "description-text": "Modeling changes to state over time is a challenge that most modern app developers have to face. The ember-concurrency addon went a long way toward simplifying many of the challenges inherent in safely modeling asynchronous operations, but there is more work to be done.This talk is about time, state management, ember-concurrency, immutability, and how a lot of tricky problems disappear when you rigorously commit to the goal of minimizing non-essential state in favor of derived state."
+      }
+    },
+    {
+      "id": 38,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T10:45:00-07:00",
+        "end-time": "2017-03-28T11:15:00-07:00",
+        "title": "SVG Animation and Interaction in Ember",
+        "time": "10:45 am-11:15 am",
+        "description-html": "Creative. Lively. Interactive. What if even a beginner-level Ember app could be all these things? SVG is a flexible, vector-based image format that lets you manipulate image elements in the same way that you already work with divs. It’s almost as simple to write a class binding for a star in a constellation as it is to write it for a checklist item. Learn how Ember’s out-of-the-box behavior can be used to build things like progress meters, interactive diagrams, and charts.",
+        "description-text": "Creative. Lively. Interactive. What if even a beginner-level Ember app could be all these things? SVG is a flexible, vector-based image format that lets you manipulate image elements in the same way that you already work with divs. It’s almost as simple to write a class binding for a star in a constellation as it is to write it for a checklist item. Learn how Ember’s out-of-the-box behavior can be used to build things like progress meters, interactive diagrams, and charts."
+      }
+    },
+    {
+      "id": 40,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T15:00:00-07:00",
+        "end-time": "2017-03-28T15:30:00-07:00",
+        "title": "Rebuilding Tumblr as a Single Page App",
+        "time": "3:00 pm-3:30 pm",
+        "description-html": "Following a hack day project, work began on building prototypes of Tumblr using Ember and React. Come and find out what we learned along the way and why we chose Ember to ship all our memes.",
+        "description-text": "Following a hack day project, work began on building prototypes of Tumblr using Ember and React. Come and find out what we learned along the way and why we chose Ember to ship all our memes."
+      }
+    },
+    {
+      "id": 42,
+      "type": "tags",
+      "attributes": {
+        "name": "Trainer"
+      }
+    },
+    {
+      "id": 43,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:00:00-07:00",
+        "end-time": "2017-03-28T11:30:00-07:00",
+        "title": "WHW Public Speaking 101",
+        "time": "9:00 am-11:30 am",
+        "description-html": "This Workshop is open to members of the EmberConf <em>Women Helping Women</em> Program and all Women in the Ember community.<br>This fun workshop is a mix of lecture, exercises, and discussion, focused on practical techniques and principles that can help you level up your skills for speaking to any size of group. Learn how to adapt your body language and content to communicate effectively to dozens, hundreds, or thousands of people—and how to recover when things don’t go as planned.<br><a href=\"//emberwomen.com\" target=\"_blank\">Details on the WHW program.</a>",
+        "description-text": "This Workshop is open to members of the EmberConf Women Helping Women Program and all Women in the Ember community.This fun workshop is a mix of lecture, exercises, and discussion, focused on practical techniques and principles that can help you level up your skills for speaking to any size of group. Learn how to adapt your body language and content to communicate effectively to dozens, hundreds, or thousands of people—and how to recover when things don’t go as planned.Details on the WHW program."
+      }
+    },
+    {
+      "id": 45,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:00:00-07:00",
+        "end-time": "2017-03-28T12:00:00-07:00",
+        "title": "Acceptance Testing",
+        "time": "9:00 am-12:00 pm",
+        "description-html": "",
+        "description-text": "In this training we'll go over the basics of acceptance testing your Ember applications. If you've never written an acceptance test, or have only written a few but find yourself or your team struggling to write them consistently, this training is for you.The key to incorporating testing into your development workflow is to write tests that have a net benefit. Once your developers and product managers see the value of your test suite, your team will never go back.The benefit of a test is its value minus its cost. Thus, we'll spend time discussing:As a class, we will also develop the practical skills needed to be successful writing tests, including:Ember's testing story is stronger than ever, and really sets it apart from other frontend frameworks. Use this training as an opportunity to get your team excited and up to speed about testing in Ember.Ticket price of $299, space limited."
+      }
+    },
+    {
+      "id": 46,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T16:30:00-07:00",
+        "title": "Components",
+        "time": "1:30 pm-4:30 pm",
+        "description-html": "",
+        "description-text": "Join us in this intermediate training to learn several new component patterns you can bring back to your apps. We'll start by going over some foundations like:We'll also work through many examples together. Through these examples you'll learn:Components are the building blocks of modern Ember applications, so small knowledge gains in this area can have a huge impact on your team's effectiveness. You'll leave this training with new perspectives and a deeper understanding of this crucial piece of Ember development.Ticket price of $299, class size limited."
+      }
+    },
+    {
+      "id": 48,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:00:00-07:00",
+        "end-time": "2017-03-28T12:00:00-07:00",
+        "title": "Acceptance Testing",
+        "time": "9:00 am-12:00 pm",
+        "description-html": "",
+        "description-text": "In this training we'll go over the basics of acceptance testing your Ember applications. If you've never written an acceptance test, or have only written a few but find yourself or your team struggling to write them consistently, this training is for you.The key to incorporating testing into your development workflow is to write tests that have a net benefit. Once your developers and product managers see the value of your test suite, your team will never go back.The benefit of a test is its value minus its cost. Thus, we'll spend time discussing:As a class, we will also develop the practical skills needed to be successful writing tests, including:Ember's testing story is stronger than ever, and really sets it apart from other frontend frameworks. Use this training as an opportunity to get your team excited and up to speed about testing in Ember.Ticket price of $299, space limited."
+      }
+    },
+    {
+      "id": 49,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T16:30:00-07:00",
+        "title": "Components",
+        "time": "1:30 pm-4:30 pm",
+        "description-html": "",
+        "description-text": "Join us in this intermediate training to learn several new component patterns you can bring back to your apps. We'll start by going over some foundations like:We'll also work through many examples together. Through these examples you'll learn:Components are the building blocks of modern Ember applications, so small knowledge gains in this area can have a huge impact on your team's effectiveness. You'll leave this training with new perspectives and a deeper understanding of this crucial piece of Ember development.Ticket price of $299, class size limited."
+      }
+    },
+    {
+      "id": 51,
+      "type": "tags",
+      "attributes": {
+        "name": "BonusConf"
+      }
+    },
+    {
+      "id": 52,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T17:20:00-07:00",
+        "title": "BonusConf Sessions",
+        "time": "1:30 pm-5:20 pm",
+        "description-html": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?<br>This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.<br>This year's agenda includes:<br>",
+        "description-text": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.This year's agenda includes:"
+      }
+    },
+    {
+      "id": 54,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T17:20:00-07:00",
+        "title": "BonusConf Sessions",
+        "time": "1:30 pm-5:20 pm",
+        "description-html": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?<br>This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.<br>This year's agenda includes:<br>",
+        "description-text": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.This year's agenda includes:"
+      }
+    },
+    {
+      "id": 56,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T09:00:00-07:00",
+        "end-time": "2017-03-28T12:00:00-07:00",
+        "title": "Secure Authentication with OAuth 2.0 in Ember",
+        "time": "9:00 am-12:00 pm",
+        "description-html": "",
+        "description-text": "You've surely heard of OAuth 2.0 before, but did you know that the protocol has of four distinct flows? Each of these flows supports an explicit deployment scenario, and misusing these flows will likely cause your application to be vulnerable to various attacks.In this workshop, attendees will learn how to correctly implement OAuth 2.0 into Ember applications using ember-simple-auth and Torii. On top of that, we will go over the most common security issues in OAuth 2.0 implementations, and how you can mitigate them in your application.At the end of the workshop, attendees will understand what OAuth 2.0 is all about, and how they can integrate it using the Torii library. They’ll have a clear view on which OAuth 2.0 strategy (flow) to choose depending on the use case. On top of that, they will understand common security issues in OAuth 2.0 implementations, and how to effectively mitigate them.During the hands-on exercises, attendees will implement OAuth 2.0 support in a realistic training application. The exercises will be fully documented, and attendees will be able to use the provided application as a reference after the workshop.Ticket price of $299, space limited."
+      }
+    },
+    {
+      "id": 58,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T17:20:00-07:00",
+        "title": "BonusConf Sessions",
+        "time": "1:30 pm-5:20 pm",
+        "description-html": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?<br>This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.<br>This year's agenda includes:<br>",
+        "description-text": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.This year's agenda includes:"
+      }
+    },
+    {
+      "id": 60,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T17:20:00-07:00",
+        "title": "BonusConf Sessions",
+        "time": "1:30 pm-5:20 pm",
+        "description-html": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?<br>This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.<br>This year's agenda includes:<br>",
+        "description-text": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.This year's agenda includes:"
+      }
+    },
+    {
+      "id": 62,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T17:20:00-07:00",
+        "title": "BonusConf Sessions",
+        "time": "1:30 pm-5:20 pm",
+        "description-html": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?<br>This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.<br>This year's agenda includes:<br>",
+        "description-text": "Each year, we not-so-secretly run a small mini-conf on Monday, where we professionally record Bonus content for online release. With so many talented Ember people coming to town, how could we not take advantage?This year we're inviting a small audience to be present for the presentation of these sessions, a sort of Monday mini-conference we're calling BonusConf.This year's agenda includes:"
+      }
+    },
+    {
+      "id": 64,
+      "type": "sessions",
+      "attributes": {
+        "start-time": "2017-03-28T13:30:00-07:00",
+        "end-time": "2017-03-28T17:00:00-07:00",
+        "title": "Ember for Mobile",
+        "time": "1:30 pm-5:00 pm",
+        "description-html": "Mobile web traffic has eclipsed desktop, and the trend seems to only be accelerating. While it's true that your web app 'works' on these devices, there's a difference between technically working, and providing a rich, optimized and fluid experience.",
+        "description-text": "Mobile web traffic has eclipsed desktop, and the trend seems to only be accelerating. While it's true that your web app 'works' on these devices, there's a difference between technically working, and providing a rich, optimized and fluid experience.In this workshop, we'll dive into several topics that make big differences on mobile, including:Class will feature a mix of lectures and exercises. Attendees will develop practical skills that they can take back to their teams, and elevate their mobile web experience for the good of their customers and businesses.Ticket price of $299, class size limited."
+      }
+    }
+  ]
+}

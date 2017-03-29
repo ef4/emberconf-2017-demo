@@ -1,0 +1,10 @@
+{
+  "attributes": {
+    "field-type": "@cardstack/mobiledoc"
+  },
+  "relationships": {
+    "constraints": null,
+    "default-at-create": null,
+    "default-at-update": null
+  }
+}

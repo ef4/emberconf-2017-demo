@@ -1,0 +1,16 @@
+{
+  "attributes": {
+    "name": "Yehuda Katz",
+    "photo-url": null,
+    "bio": null,
+    "slug": "wycats"
+  },
+  "relationships": {
+    "tags": {
+      "data": []
+    },
+    "sessions": {
+      "data": []
+    }
+  }
+}

@@ -1,1 +1,6 @@
 <h1>{{model.name}}</h1>
+
+<img src={{model.photoURL}}>
+
+{{!-- triple curlies could be dangerous if we start letting users edit the bio --}}
+{{{model.bioHTML}}}

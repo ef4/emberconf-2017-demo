@@ -34,6 +34,7 @@
     "ember-load-initializers": "^0.6.0",
     "ember-resolver": "^2.0.3",
     "ember-source": "~2.12.0",
+    "ember-svg-jar": "^0.9.3",
     "ember-welcome-page": "^2.0.2",
     "loader.js": "^4.2.3"
   },
@@ -41,7 +42,5 @@
     "node": ">= 4"
   },
   "private": true,
-  "dependencies": {
-    "ember-svg-jar": "^0.9.3"
-  }
+  "dependencies": {}
 }

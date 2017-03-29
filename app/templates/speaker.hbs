@@ -1,12 +1,14 @@
 <div class="speaker-page">
-  <img src={{model.photoURL}}>
+  <img src={{model.photoURL}} />
   <div>
     <h1>{{model.name}}</h1>
 
 
 
     {{!-- triple curlies could be dangerous if we start letting users edit the bio --}}
-    {{{model.bioHTML}}}
+    <div class="bio">
+      {{{model.bioHTML}}}
+    </div>
 
     <ul>
       {{#each model.sessions as |session|}}
@@ -14,4 +16,5 @@
       {{/each}}
     </ul>
   </div>
+
 </div>

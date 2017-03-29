@@ -9,6 +9,15 @@ body {
     margin: 0;
 }
 
+a {
+    color: #4AA0B8;
+    text-decoration: inherit;
+}
+
+a:hover {
+    color: #2C92AD;
+}
+
 h1 {
     font-weight: bold;
 }
@@ -72,18 +81,38 @@ h1 {
     flex: 1;
 }
 
-.speaker-page > img {
-    width: 13em;
-    height: 100%;
-    border-radius: 1000px;
-    float: left;
-    margin: 1.5em;
-}
-
 .speaker-page {
     display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.speaker-page > img {
+    width: 13em;
+    border-radius: 1000px;
+    margin-top: 2em;
+    margin-right: 5em;
+    opacity: 0.8;
 }
 
 .speaker-page > div {
     flex: 1;
+    max-width: 30em;
+}
+
+.speaker-page > div > .bio {
+    color: #8E8685;
+}
+
+.speaker-page > div > ul  {
+    list-style: none;
+    margin: 0;
+    padding: 0.75em 0;
+}
+
+.speaker-page > div > ul > li {
+    letter-spacing: -.025em;
+    line-height: 1.4em;
+    font-size: 0.875em;
+    color: #4AA0B8;
 }

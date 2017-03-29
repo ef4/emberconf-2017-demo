@@ -9,5 +9,11 @@ export default DS.Model.extend({
   slug: attr('string'),
   type: Ember.computed(function () {
     return this.constructor.modelName;
-  })
+  }),
+  save() {
+    if (this.get('isNew') && !this.get('slug')) {
+      this.set('slug', this.get('name').replace(' ', '-').replace(/^a-zA-Z-/g, ''));
+    }
+    this._super.apply(this, arguments);
+  }
 });

@@ -2,9 +2,16 @@
 # yarn lockfile v1
 
 
-"@cardstack/core-types@*", "@cardstack/core-types@^0.0.1":
+"@cardstack/core-types@*":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@cardstack/core-types/-/core-types-0.0.1.tgz#0a622453198993f9a85733caf5fffd039f1a75a0"
+  dependencies:
+    ember-cli-babel "^5.1.7"
+    ember-cli-htmlbars "^1.1.1"
+
+"@cardstack/core-types@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@cardstack/core-types/-/core-types-0.0.6.tgz#8ac26bca0c85fd1ed333548ff427bffda481f0df"
   dependencies:
     ember-cli-babel "^5.1.7"
     ember-cli-htmlbars "^1.1.1"
@@ -17,17 +24,17 @@
     elasticsearch "^12.1.3"
     heimdalljs-logger "^0.1.8"
 
-"@cardstack/git@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@cardstack/git/-/git-0.0.2.tgz#70fd638723c97e01165fd258a83f31929369b849"
+"@cardstack/git@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@cardstack/git/-/git-0.0.6.tgz#d763c123f68979dd566268ac808b1c14395115fa"
   dependencies:
     heimdalljs-logger "^0.1.8"
     moment-timezone "^0.5.11"
     nodegit "^0.16.0"
 
-"@cardstack/hub@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@cardstack/hub/-/hub-0.0.2.tgz#537cbfcd879ffd8ed402de3f227ff17a4fc49957"
+"@cardstack/hub@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@cardstack/hub/-/hub-0.0.6.tgz#1fc14d3b1db962797e1fdcc61d555d6038373aea"
   dependencies:
     "@cardstack/core-types" "*"
     "@cardstack/elasticsearch" "*"
@@ -50,9 +57,9 @@
     lodash "^4.17.4"
     qs "^6.4.0"
 
-"@cardstack/mobiledoc@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@cardstack/mobiledoc/-/mobiledoc-0.0.1.tgz#dc0ceae05ff725e4e6da0a64d30ab0cda6d7f702"
+"@cardstack/mobiledoc@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@cardstack/mobiledoc/-/mobiledoc-0.0.6.tgz#65272517c6e4e2ef8c94286e6218f5f56e30efd2"
   dependencies:
     ember-cli-babel "^5.1.7"
     ember-cli-htmlbars "^1.1.1"
@@ -65,18 +72,18 @@
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@cardstack/plugin-utils/-/plugin-utils-0.0.1.tgz#d85db701f92181a485d7e22220a49938bfd603a4"
 
-"@cardstack/routing@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@cardstack/routing/-/routing-0.0.1.tgz#e5496d8b163577274e9c4609fc3bdf363ca53e93"
+"@cardstack/routing@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@cardstack/routing/-/routing-0.0.6.tgz#7e39eed7810f971b5760b24d7afd0853d321f850"
   dependencies:
     "@cardstack/tools" "*"
     ember-cli-babel "^5.1.7"
     ember-cli-htmlbars "^1.1.1"
     ember-data "^2.12.1"
     ember-inflector "^1.11.0"
-    ember-resource-metadata "^0.0.5"
+    ember-resource-metadata "^0.0.7"
 
-"@cardstack/tools@*", "@cardstack/tools@^0.0.4":
+"@cardstack/tools@*":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@cardstack/tools/-/tools-0.0.4.tgz#951224ce0075199bc141d5ce9bb787cb1370bbeb"
   dependencies:
@@ -92,6 +99,28 @@
     ember-moment "^7.3.0"
     ember-overlays "^0.1.0"
     ember-resource-metadata "^0.0.6"
+    ember-toolbars "0.3.0"
+    ember-truth-helpers "^1.3.0"
+    liquid-fire "^0.27.1"
+    postcss-cssnext "^2.10.0"
+    postcss-import "^9.1.0"
+
+"@cardstack/tools@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@cardstack/tools/-/tools-0.0.6.tgz#d18df6402d6556fd7d8e30f731c3991ecd1018b1"
+  dependencies:
+    ember-cli-babel "^5.1.7"
+    ember-cli-htmlbars "^1.1.1"
+    ember-cli-is-component "https://github.com/ef4/ember-cli-is-component#544bf7a87689015c4f54c6697093d9f2b0d7b1ea"
+    ember-cli-moment-shim "^3.0.1"
+    ember-cli-postcss "https://github.com/ef4/ember-cli-postcss#fdb9d27e47adb70376cc00451523ca353595ce36"
+    ember-concurrency "^0.7.19"
+    ember-data "^2.12.1"
+    ember-data-relationship-tracker "^0.1.0"
+    ember-elsewhere "^1.0.0"
+    ember-moment "^7.3.0"
+    ember-overlays "^0.1.0"
+    ember-resource-metadata "^0.0.7"
     ember-toolbars "0.3.0"
     ember-truth-helpers "^1.3.0"
     liquid-fire "^0.27.1"
@@ -2258,9 +2287,9 @@ ember-cli-inject-live-reload@^1.4.1:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/ember-cli-inject-live-reload/-/ember-cli-inject-live-reload-1.6.1.tgz#82b8f5be454815a75e7f6d42c9ce0bc883a914a3"
 
-"ember-cli-is-component@https://github.com/ef4/ember-cli-is-component#544bf7a87689015c4f54c6697093d9f2b0d7b1ea":
+"ember-cli-is-component@git+https://github.com/ef4/ember-cli-is-component.git#544bf7a87689015c4f54c6697093d9f2b0d7b1ea", "ember-cli-is-component@https://github.com/ef4/ember-cli-is-component#544bf7a87689015c4f54c6697093d9f2b0d7b1ea":
   version "0.4.2"
-  resolved "https://github.com/ef4/ember-cli-is-component#544bf7a87689015c4f54c6697093d9f2b0d7b1ea"
+  resolved "git+https://github.com/ef4/ember-cli-is-component.git#544bf7a87689015c4f54c6697093d9f2b0d7b1ea"
   dependencies:
     ember-cli-babel "^5.1.5"
     ember-cli-htmlbars "^1.0.1"
@@ -2319,9 +2348,9 @@ ember-cli-path-utils@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-path-utils/-/ember-cli-path-utils-1.0.0.tgz#4e39af8b55301cddc5017739b77a804fba2071ed"
 
-"ember-cli-postcss@https://github.com/ef4/ember-cli-postcss#fdb9d27e47adb70376cc00451523ca353595ce36":
+"ember-cli-postcss@git+https://github.com/ef4/ember-cli-postcss.git#fdb9d27e47adb70376cc00451523ca353595ce36", "ember-cli-postcss@https://github.com/ef4/ember-cli-postcss#fdb9d27e47adb70376cc00451523ca353595ce36":
   version "3.1.2"
-  resolved "https://github.com/ef4/ember-cli-postcss#fdb9d27e47adb70376cc00451523ca353595ce36"
+  resolved "git+https://github.com/ef4/ember-cli-postcss.git#fdb9d27e47adb70376cc00451523ca353595ce36"
   dependencies:
     broccoli-merge-trees "2.0.0"
     broccoli-postcss "3.3.0"
@@ -2662,15 +2691,17 @@ ember-resolver@^2.0.3:
     ember-cli-babel "^5.1.6"
     ember-cli-version-checker "^1.1.6"
 
-ember-resource-metadata@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/ember-resource-metadata/-/ember-resource-metadata-0.0.5.tgz#c388c4008145bacc6cd8f6b4e47041f344f25006"
-  dependencies:
-    ember-cli-babel "^5.1.7"
-
 ember-resource-metadata@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/ember-resource-metadata/-/ember-resource-metadata-0.0.6.tgz#a591e1e91996552df86d3eb329f983211b08d6b4"
+  dependencies:
+    ember-cli-babel "^5.1.7"
+    ember-data "^2.12.1"
+    ember-inflector "^1.11.0"
+
+ember-resource-metadata@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/ember-resource-metadata/-/ember-resource-metadata-0.0.7.tgz#7787727c6a99ae7bbac51dfc2ac5bd8e6061e34b"
   dependencies:
     ember-cli-babel "^5.1.7"
     ember-data "^2.12.1"

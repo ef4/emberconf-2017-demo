@@ -91,6 +91,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    margin-top: 4em;
 }
 
 .speaker-page > img {

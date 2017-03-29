@@ -1,5 +1,6 @@
 import DS from 'ember-data';
 const { attr, hasMany } = DS;
+import Ember from 'ember';
 
 export default DS.Model.extend({
   name: attr('string'),
@@ -9,5 +10,9 @@ export default DS.Model.extend({
   bioText: attr('string'),
   bio: attr({ fieldType: '@cardstack/mobiledoc' }),
   tags: hasMany(),
-  sessions: hasMany()
+  sessions: hasMany(),
+  slug: attr('string'),
+  type: Ember.computed(function () {
+    return this.constructor.modelName;
+  })
 });

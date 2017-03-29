@@ -45,7 +45,11 @@
   "private": true,
   "dependencies": {
     "@cardstack/core-types": "^0.0.1",
+    "@cardstack/git": "^0.0.2",
+    "@cardstack/hub": "^0.0.2",
     "@cardstack/mobiledoc": "^0.0.1",
+    "@cardstack/routing": "^0.0.1",
+    "ember-resource-metadata": "^0.0.6",
     "squishable-container": "^0.1.0"
   }
 }

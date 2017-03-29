@@ -1,5 +1,7 @@
 {{#link-to "speaker" content.id class="speaker"}}
-  <img src={{content.photoURL}}>
+  {{#cs-field content "photoURL" as |url|}}
+    <img src={{url}} />
+  {{/cs-field}}
   <div>
     <div class="speaker-name">{{cs-field content "name"}}</div>
     {{#each content.tags as |tag|}}

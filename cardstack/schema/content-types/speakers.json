@@ -24,6 +24,10 @@
         {
           "type": "fields",
           "id": "sessions"
+        },
+        {
+          "type": "fields",
+          "id": "slug"
         }
       ]
     },

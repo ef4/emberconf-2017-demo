@@ -1,0 +1,9 @@
+{{#link-to "speaker" content.id class="speaker"}}
+  <img src={{content.photoURL}}>
+  <div>
+    <div class="speaker-name">{{cs-field content "name"}}</div>
+    {{#each content.tags as |tag|}}
+      <div class="speaker-tag" style={{background-color tag.color}} >{{tag.name}}</div>
+    {{/each}}
+  </div>
+{{/link-to}}

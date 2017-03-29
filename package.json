@@ -45,6 +45,7 @@
   "private": true,
   "dependencies": {
     "@cardstack/core-types": "^0.0.1",
+    "@cardstack/mobiledoc": "^0.0.1",
     "squishable-container": "^0.1.0"
   }
 }

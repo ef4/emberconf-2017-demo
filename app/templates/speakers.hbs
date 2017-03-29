@@ -2,15 +2,7 @@
   <h1>EmberConf 2017 Speaker Lineup</h1>
   <div class="speakers">
     {{#each model as |speaker|}}
-      {{#link-to "speaker" speaker.id class="speaker"}}
-        <img src={{speaker.photoURL}}>
-        <div>
-          <div class="speaker-name">{{speaker.name}}</div>
-          {{#each speaker.tags as |tag|}}
-          <div class="speaker-tag" style={{background-color tag.color}} >{{tag.name}}</div>
-          {{/each}}
-        </div>
-      {{/link-to}}
+      {{cardstack-content content=speaker format="card"}}
     {{/each}}
   </div>
 </div>

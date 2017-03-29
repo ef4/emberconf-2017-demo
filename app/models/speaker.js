@@ -7,6 +7,7 @@ export default DS.Model.extend({
   photoURL: attr('string'),
   bioHTML: attr('string'),
   bioText: attr('string'),
+  bio: attr({ fieldType: '@cardstack/mobiledoc' }),
   tags: hasMany(),
   sessions: hasMany()
 });

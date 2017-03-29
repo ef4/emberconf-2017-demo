@@ -1,7 +1,13 @@
 <div class="speaker-page">
-  <img src={{content.photoURL}} />
+  {{#cs-field content "photoURL" as |url|}}
+    <img src={{url}} />
+  {{/cs-field}}
   <div>
     <h1>{{cs-field content "name"}}</h1>
+
+    <div class="bio">
+      {{cs-field content "bio"}}
+    </div>
 
     {{!-- triple curlies could be dangerous if we start letting users edit the bio --}}
     <div class="bio">

@@ -40,6 +40,7 @@ h1 {
 
 .speaker:hover {
     background: #d9d9d9;
+    color: inherit;
 }
 
 .speaker:hover img {

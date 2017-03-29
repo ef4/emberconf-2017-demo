@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #323333;
+    background-color: #EEEBEB;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.speakers {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.speaker {
+    width: 16.125em;
+    height: 22em;
+    background-color: white;
+    margin: 0.5em;
+}
+
+.speaker > div {
+    padding: 0.75em;
+    display: flex;
+}
+
+.speaker > h3 {
+    font-weight: normal;
+    font-size: 1.2rem;
+}
+
+.speaker > h3 > svg {
+    width: 20px;
+}
+
+.speaker > img {
+    width: 100%;
+}
+
+.speaker-tag {
+    background-color: #8DB580;
+    margin: 4px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.625em;
+    line-height: 1em;
+    text-transform: uppercase;
+    padding: .5em .75em;
+    border-radius: 0.125em;
+}
+
+.speaker-name {
+    flex: 1;
+}

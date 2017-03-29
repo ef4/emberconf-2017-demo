@@ -6,7 +6,7 @@
       "attributes": {
         "name": "Yehuda Katz",
         "twitter": "https://twitter.com/wycats",
-        "photo-url": "http://emberconf.com/images/speakers/yehuda-katz.jpg",
+        "photo-url": "/yehuda-katz.jpg",
         "bio-html": "Yehuda is a member of the Ember.js, Ruby on Rails and jQuery Core Teams; his 9-to-5 home is at the startup he founded, <a target=\"_blank\" href=\"http://www.tilde.io\">Tilde Inc</a>, where he works on <a target=\"_blank\" href=\"http://www.skylight.io\">Skylight</a>, the smart profiler for Rails. Yehuda spends most of his time hacking on open source—his main projects, along with others, like Thor, Handlebars and Janus—and traveling the world doing open source evangelism work.",
         "bio-text": "Yehuda is a member of the Ember.js, Ruby on Rails and jQuery Core Teams; his 9-to-5 home is at the startup he founded, Tilde Inc, where he works on Skylight, the smart profiler for Rails. Yehuda spends most of his time hacking on open source—his main projects, along with others, like Thor, Handlebars and Janus—and traveling the world doing open source evangelism work."
       },
@@ -39,7 +39,7 @@
       "attributes": {
         "name": "Sarah Mei",
         "twitter": "https://twitter.com/sarahmei",
-        "photo-url": "http://emberconf.com/images/speakers/sarah-mei.png",
+        "photo-url": "/sarah-mei.png",
         "bio-html": "Sarah is a Ruby and JavaScript developer based in San Francisco, California. She's the Chief Consultant at DevMynd Software, where she spends most of her time pairing with clients’ developers, helping level up their team. Her particular areas of interest are OOP, service refactorings, growing teams, and inter-developer dynamics.",
         "bio-text": "Sarah is a Ruby and JavaScript developer based in San Francisco, California. She's the Chief Consultant at DevMynd Software, where she spends most of her time pairing with clients’ developers, helping level up their team. Her particular areas of interest are OOP, service refactorings, growing teams, and inter-developer dynamics."
       },
@@ -68,7 +68,7 @@
       "attributes": {
         "name": "Tom Dale",
         "twitter": "https://twitter.com/tomdale",
-        "photo-url": "http://emberconf.com/images/speakers/tom-dale.jpg",
+        "photo-url": "/tom-dale.jpg",
         "bio-html": "Tom is a member of the Ember Core Team. He's a former Apple engineer who first gained expert front-end JavaScript skills working on MobileMe and iCloud. He's a super hipster, and still isn't sure if it's serious or ironic.",
         "bio-text": "Tom is a member of the Ember Core Team. He's a former Apple engineer who first gained expert front-end JavaScript skills working on MobileMe and iCloud. He's a super hipster, and still isn't sure if it's serious or ironic."
       },
@@ -101,7 +101,7 @@
       "attributes": {
         "name": "Leah Silber",
         "twitter": "https://twitter.com/wifelette",
-        "photo-url": "http://emberconf.com/images/speakers/leah-silber.jpg",
+        "photo-url": "/leah-silber.jpg",
         "bio-html": "Leah is an all-around open source advocate. During the day time, she's CEO at <a target=\"_blank\" href=\"http://www.tilde.io\">Tilde Inc</a>, the open-source-centric company behind <a target=\"_blank\" href=\"http://www.skylight.io\">Skylight</a>. In her spare time, in addition to running EmberConf, Leah works on GoGaRuCo, RailsConf, and a number of User Groups. She's a retired member of the jQuery Core Team, and a member of the Ember Core Team.",
         "bio-text": "Leah is an all-around open source advocate. During the day time, she's CEO at Tilde Inc, the open-source-centric company behind Skylight. In her spare time, in addition to running EmberConf, Leah works on GoGaRuCo, RailsConf, and a number of User Groups. She's a retired member of the jQuery Core Team, and a member of the Ember Core Team."
       },
@@ -130,7 +130,7 @@
       "attributes": {
         "name": "Casey Watts",
         "twitter": "https://twitter.com/kyloma",
-        "photo-url": "http://emberconf.com/images/speakers/casey-watts.jpg",
+        "photo-url": "/casey-watts.jpg",
         "bio-html": "Casey Watts works for Heroku, doing Ember. His super-power is empathy and helping others become more empathetic. He never leaves home without bubbles. He has a background both in psychology and in software development, making him well prepared to discuss psychology with developers. He studied neurobiology at Yale University, and he co-published a few neurobiology papers.",
         "bio-text": "Casey Watts works for Heroku, doing Ember. His super-power is empathy and helping others become more empathetic. He never leaves home without bubbles. He has a background both in psychology and in software development, making him well prepared to discuss psychology with developers. He studied neurobiology at Yale University, and he co-published a few neurobiology papers."
       },
@@ -153,7 +153,7 @@
       "type": "speakers",
       "attributes": {
         "name": "Samanta de Barros",
-        "photo-url": "http://emberconf.com/images/speakers/samanta-de-barros.jpg",
+        "photo-url": "/samanta-de-barros.jpg",
         "bio-html": "Samanta has been a software engineer since 2006. While working at WyeWorks, she's been doing Ember at CrazyEgg for the last two years. Recently, she started contributing to the Ember ecosystem with <code>ember-qunit-nice-errors</code>.<br><br>She's a runner in development, sugar addict in recovery, and on her way to try every tea in the world.",
         "bio-text": "Samanta has been a software engineer since 2006. While working at WyeWorks, she's been doing Ember at CrazyEgg for the last two years. Recently, she started contributing to the Ember ecosystem with ember-qunit-nice-errors.She's a runner in development, sugar addict in recovery, and on her way to try every tea in the world."
       },
@@ -177,7 +177,7 @@
       "attributes": {
         "name": "Gavin Joyce",
         "twitter": "https://twitter.com/gavinjoyce",
-        "photo-url": "http://emberconf.com/images/speakers/gavin-joyce.jpg",
+        "photo-url": "/gavin-joyce.jpg",
         "bio-html": "Gavin hails from Dublin, Ireland and helps build amazing products at Intercom with Ember.js.",
         "bio-text": "Gavin hails from Dublin, Ireland and helps build amazing products at Intercom with Ember.js."
       },
@@ -201,7 +201,7 @@
       "attributes": {
         "name": "Jessica Jordan",
         "twitter": "https://twitter.com/jjordan_dev",
-        "photo-url": "http://emberconf.com/images/speakers/jessica-jordan.jpg",
+        "photo-url": "/jessica-jordan.jpg",
         "bio-html": "Jessica is a biologist, turned front-end developer who is a big fan of CSS3, web comics and Ember.js.",
         "bio-text": "Jessica is a biologist, turned front-end developer who is a big fan of CSS3, web comics and Ember.js."
       },
@@ -225,7 +225,7 @@
       "attributes": {
         "name": "Balint Erdi",
         "twitter": "https://twitter.com/baaz",
-        "photo-url": "http://emberconf.com/images/speakers/balint-erdi.jpg",
+        "photo-url": "/balint-erdi.jpg",
         "bio-html": "Balint Erdi is a total Ember.js enthusiast. He has given talks at conferences, held workshops, written dozens of blog posts, made a screencast series and wrote a book, Rock and Roll with Ember.js, which is the most up-to-date book on Ember.",
         "bio-text": "Balint Erdi is a total Ember.js enthusiast. He has given talks at conferences, held workshops, written dozens of blog posts, made a screencast series and wrote a book, Rock and Roll with Ember.js, which is the most up-to-date book on Ember."
       },
@@ -253,7 +253,7 @@
       "attributes": {
         "name": "Lauren Elizabeth Tan",
         "twitter": "https://twitter.com/sugarpirate_",
-        "photo-url": "http://emberconf.com/images/speakers/lauren-tan.jpg",
+        "photo-url": "/lauren-tan.jpg",
         "bio-html": "Lauren is a Senior Software Engineer at Netflix. She gave her first ever conference talk at EmberConf 2015, and loved it so much she decided to go all in and do more. Lauren frequently writes about Ember.js at her blog on medium, maintains many popular addons, enjoys bubble tea, and has a little puppy named Zelda.",
         "bio-text": "Lauren is a Senior Software Engineer at Netflix. She gave her first ever conference talk at EmberConf 2015, and loved it so much she decided to go all in and do more. Lauren frequently writes about Ember.js at her blog on medium, maintains many popular addons, enjoys bubble tea, and has a little puppy named Zelda."
       },
@@ -277,7 +277,7 @@
       "attributes": {
         "name": "Edward Faulkner",
         "twitter": "https://twitter.com/eaf4",
-        "photo-url": "http://emberconf.com/images/speakers/edward-faulkner.png",
+        "photo-url": "/edward-faulkner.png",
         "bio-html": "Edward Faulkner is a member of the Ember Core Team and the creator of Ember's official animation library. His open source code is running on mainstream gaming consoles, major social media sites, and hordes of enterprise applications. His consultancy, Polynomial LLC, leads ambitious software projects for a diverse group of businesses and nonprofits. He is a research associate of the MIT Media Lab's Social Computing group, and was previously a lead engineer at Akamai Technologies.",
         "bio-text": "Edward Faulkner is a member of the Ember Core Team and the creator of Ember's official animation library. His open source code is running on mainstream gaming consoles, major social media sites, and hordes of enterprise applications. His consultancy, Polynomial LLC, leads ambitious software projects for a diverse group of businesses and nonprofits. He is a research associate of the MIT Media Lab's Social Computing group, and was previously a lead engineer at Akamai Technologies."
       },
@@ -305,7 +305,7 @@
       "type": "speakers",
       "attributes": {
         "name": "Fisayo Oluwadiya",
-        "photo-url": "http://emberconf.com/images/speakers/fisayo-oluwadiya.jpg",
+        "photo-url": "/fisayo-oluwadiya.jpg",
         "bio-html": "Fisayo is an applications developer lead at a large organization that has built a UI framework on top of Ember. Their goal is to provide components that are accessible and mobile-ready for application development. When not coding, Fisayo can be found eating, cooking, singing, hanging out with friends or hiking (in no particular order).",
         "bio-text": "Fisayo is an applications developer lead at a large organization that has built a UI framework on top of Ember. Their goal is to provide components that are accessible and mobile-ready for application development. When not coding, Fisayo can be found eating, cooking, singing, hanging out with friends or hiking (in no particular order)."
       },
@@ -329,7 +329,7 @@
       "attributes": {
         "name": "Miguel Camba",
         "twitter": "https://twitter.com/miguelcamba",
-        "photo-url": "http://emberconf.com/images/speakers/miguel-camba.png",
+        "photo-url": "/miguel-camba.png",
         "bio-html": "Miguel is a Spanish freelance developer now settled in London, where he helps companies build complex app with Ruby, Ember and Elixir. He likes to rant about broken Javascript stuff, but then feels bad, deletes the rant and attempts to fix them.",
         "bio-text": "Miguel is a Spanish freelance developer now settled in London, where he helps companies build complex app with Ruby, Ember and Elixir. He likes to rant about broken Javascript stuff, but then feels bad, deletes the rant and attempts to fix them."
       },
@@ -353,7 +353,7 @@
       "attributes": {
         "name": "Madison Kerndt",
         "twitter": "https://twitter.com/mkerndt",
-        "photo-url": "http://emberconf.com/images/speakers/madison-kerndt.jpg",
+        "photo-url": "/madison-kerndt.jpg",
         "bio-html": "Madison derives a deep sense of purpose from building visceral experiences with technology is my passion. She is am a front-end engineer and graduate from Turing School of Software &amp; Design. With a background in startups, she joined Techstars as a technical associate for the 2017 class. She enjoys bringing people together to relay complex topics in a relatable fashion. Her journey has afforded her the opportunities to pick up skills that she uses to advance her learning and the learning of those in her community.",
         "bio-text": "Madison derives a deep sense of purpose from building visceral experiences with technology is my passion. She is am a front-end engineer and graduate from Turing School of Software & Design. With a background in startups, she joined Techstars as a technical associate for the 2017 class. She enjoys bringing people together to relay complex topics in a relatable fashion. Her journey has afforded her the opportunities to pick up skills that she uses to advance her learning and the learning of those in her community."
       },
@@ -377,7 +377,7 @@
       "attributes": {
         "name": "Godfrey Chan",
         "twitter": "https://twitter.com/chancancode",
-        "photo-url": "http://emberconf.com/images/speakers/godfrey-chan.jpg",
+        "photo-url": "/godfrey-chan.jpg",
         "bio-html": "Godfrey Chan is a member of the Ruby on Rails core team and an Ember.js Core Team Member. He currently works at <a target=\"_blank\" href=\"http://www.tilde.io\">Tilde</a> as an in-house Canadian. In his previous life, he was also an award-winning WordPress™ plugin author.",
         "bio-text": "Godfrey Chan is a member of the Ruby on Rails core team and an Ember.js Core Team Member. He currently works at Tilde as an in-house Canadian. In his previous life, he was also an award-winning WordPress™ plugin author."
       },
@@ -406,7 +406,7 @@
       "attributes": {
         "name": "Ingrid Epure",
         "twitter": "https://twitter.com/ingridepure",
-        "photo-url": "http://emberconf.com/images/speakers/ingrid-epure.jpeg",
+        "photo-url": "/ingrid-epure.jpeg",
         "bio-html": "Ingrid is a full stack engineer at Intercom.",
         "bio-text": "Ingrid is a full stack engineer at Intercom."
       },
@@ -430,7 +430,7 @@
       "attributes": {
         "name": "Alex Matchneer",
         "twitter": "https://twitter.com/machty",
-        "photo-url": "http://emberconf.com/images/speakers/alex-matchneer.png",
+        "photo-url": "/alex-matchneer.png",
         "bio-html": "Alex was a member of the Ember.js Core Team before the startup lifestyle consumed all of his spare time. He wrote the ember-concurrency addon and continues use Ember everyday while building and maintain a suite of mobile Ember apps.",
         "bio-text": "Alex was a member of the Ember.js Core Team before the startup lifestyle consumed all of his spare time. He wrote the ember-concurrency addon and continues use Ember everyday while building and maintain a suite of mobile Ember apps."
       },
@@ -459,7 +459,7 @@
       "attributes": {
         "name": "Jen Weber",
         "twitter": "https://twitter.com/jwwweber",
-        "photo-url": "http://emberconf.com/images/speakers/jen-weber.jpg",
+        "photo-url": "/jen-weber.jpg",
         "bio-html": "Jen Weber is a UI/UX Developer at BioBright, where she builds applications that help scientists manage their data, visualize sensor output, and augment their lab workflow. She uses Ember to explore new ways for researchers to interact with their environment and experimental results. She is a proud graduate of General Assembly of Boston’s web development bootcamp.",
         "bio-text": "Jen Weber is a UI/UX Developer at BioBright, where she builds applications that help scientists manage their data, visualize sensor output, and augment their lab workflow. She uses Ember to explore new ways for researchers to interact with their environment and experimental results. She is a proud graduate of General Assembly of Boston’s web development bootcamp."
       },
@@ -483,7 +483,7 @@
       "attributes": {
         "name": "Oli Griffiths",
         "twitter": "https://twitter.com/Oligriffiths",
-        "photo-url": "http://emberconf.com/images/speakers/oli-griffiths.png",
+        "photo-url": "/oli-griffiths.png",
         "bio-html": "Senior software engineer at Tumblr with over 10 years experience, building high resilience, web scale software that powers all the dank memes.",
         "bio-text": "Senior software engineer at Tumblr with over 10 years experience, building high resilience, web scale software that powers all the dank memes."
       },
@@ -507,7 +507,7 @@
       "attributes": {
         "name": "Bear Douglas",
         "twitter": "https://twitter.com/beardigsit",
-        "photo-url": "http://emberconf.com/images/speakers/bear-douglas.jpg",
+        "photo-url": "/bear-douglas.jpg",
         "bio-html": "Bear Douglas is an accomplished public speaker with nearly 15 years’ experience on stage and in the performing arts. In the past three years alone, Bear has given over 130 professional presentations to technical and non-technical audiences of all sizes. She currently leads the mobile developer relations team at Twitter; previously, she was at Facebook and a smattering of SF-based startups.",
         "bio-text": "Bear Douglas is an accomplished public speaker with nearly 15 years’ experience on stage and in the performing arts. In the past three years alone, Bear has given over 130 professional presentations to technical and non-technical audiences of all sizes. She currently leads the mobile developer relations team at Twitter; previously, she was at Facebook and a smattering of SF-based startups."
       },
@@ -536,7 +536,7 @@
       "attributes": {
         "name": "Sam Selikoff",
         "twitter": "https://twitter.com/samselikoff",
-        "photo-url": "http://emberconf.com/images/speakers/sam-selikoff.jpeg",
+        "photo-url": "/sam-selikoff.jpeg",
         "bio-html": "Sam Selikoff is a co-founder of EmberMap, a video training site for Ember.js teams. Previously a front-end engineer at TED, he now spends his time sharing his knowledge with the Ember community through videos, blog posts, and consulting.",
         "bio-text": "Sam Selikoff is a co-founder of EmberMap, a video training site for Ember.js teams. Previously a front-end engineer at TED, he now spends his time sharing his knowledge with the Ember community through videos, blog posts, and consulting."
       },
@@ -569,7 +569,7 @@
       "attributes": {
         "name": "Ryan Toronto",
         "twitter": "https://twitter.com/ryantotweets",
-        "photo-url": "http://emberconf.com/images/speakers/ryan-toronto.jpg",
+        "photo-url": "/ryan-toronto.jpg",
         "bio-html": "Ryan has been developing Ember applications since 2012. In addition to shipping dozens of apps for both web and mobile devices, he's led various Ember teams and projects. He also makes Ember screencasts and blog regularly to share his knowledge with the Ember community.",
         "bio-text": "Ryan has been developing Ember applications since 2012. In addition to shipping dozens of apps for both web and mobile devices, he's led various Ember teams and projects. He also makes Ember screencasts and blog regularly to share his knowledge with the Ember community."
       },
@@ -602,7 +602,7 @@
       "attributes": {
         "name": "Serena Fritsch",
         "twitter": "https://twitter.com/serifritsch",
-        "photo-url": "http://emberconf.com/images/speakers/serena-fritsch.png",
+        "photo-url": "/serena-fritsch.png",
         "bio-html": "Serena is a product engineer working for Intercom in Dublin, Ireland. She started working with Ember 1.5 years ago and never looked back. In her spare time she loves to meet like minded, enthusiastic people by hosting the EmberJS Dublin meetup. She also can be found mentoring at female-friendly workshops, drinking way too much coffee and finding the next great recipe for a chocolate tart.",
         "bio-text": "Serena is a product engineer working for Intercom in Dublin, Ireland. She started working with Ember 1.5 years ago and never looked back. In her spare time she loves to meet like minded, enthusiastic people by hosting the EmberJS Dublin meetup. She also can be found mentoring at female-friendly workshops, drinking way too much coffee and finding the next great recipe for a chocolate tart."
       },
@@ -631,7 +631,7 @@
       "attributes": {
         "name": "Melissa Roman",
         "twitter": "https://twitter.com/MelissaRoman26",
-        "photo-url": "http://emberconf.com/images/speakers/melissa-roman.jpg",
+        "photo-url": "/melissa-roman.jpg",
         "bio-html": "Melissa is an Ember developer at Ticketfly.",
         "bio-text": "Melissa is an Ember developer at Ticketfly."
       },
@@ -660,7 +660,7 @@
       "attributes": {
         "name": "Philippe De Ryck",
         "twitter": "https://twitter.com/PhilippeDeRyck",
-        "photo-url": "http://emberconf.com/images/speakers/philippe-de-ryck.png",
+        "photo-url": "/philippe-de-ryck.png",
         "bio-html": "Philippe De Ryck is a professional speaker and trainer on software security and web security. Since he obtained his PhD at the imec-DistriNet research group (KU Leuven, Belgium), he has been running the group's Web Security Training program. This training program ensures a sustainable knowledge transfer of the group’s security expertise towards practitioners, enabling them to build better and more secure applications.",
         "bio-text": "Philippe De Ryck is a professional speaker and trainer on software security and web security. Since he obtained his PhD at the imec-DistriNet research group (KU Leuven, Belgium), he has been running the group's Web Security Training program. This training program ensures a sustainable knowledge transfer of the group’s security expertise towards practitioners, enabling them to build better and more secure applications."
       },
@@ -689,7 +689,7 @@
       "attributes": {
         "name": "Laura Lebovic",
         "twitter": "https://twitter.com/LauraLebovic",
-        "photo-url": "http://emberconf.com/images/speakers/laura-lebovic.jpg",
+        "photo-url": "/laura-lebovic.jpg",
         "bio-html": "Software Engineer @showmyhomework. Passionate about Ember, Ruby on Rails, Pop Rock gigs and Fooding. EmberConf and NOS Alive Festival are my next stops. Come say hi!",
         "bio-text": "Software Engineer @showmyhomework. Passionate about Ember, Ruby on Rails, Pop Rock gigs and Fooding. EmberConf and NOS Alive Festival are my next stops. Come say hi!"
       },
@@ -718,7 +718,7 @@
       "attributes": {
         "name": "Melanie Sumner",
         "twitter": "https://twitter.com/melaniersumner",
-        "photo-url": "http://emberconf.com/images/speakers/melanie-sumner.jpeg",
+        "photo-url": "/melanie-sumner.jpeg",
         "bio-html": "Melanie taught herself how to code as a hobby starting back in 1997, and decided to make a career of it after her enlistment in the U.S. Navy ended in 2005. She now works as a developer and accessibility consultant at a leading global financial services firm, and is a member of the `ember-a11y` community team.",
         "bio-text": "Melanie taught herself how to code as a hobby starting back in 1997, and decided to make a career of it after her enlistment in the U.S. Navy ended in 2005. She now works as a developer and accessibility consultant at a leading global financial services firm, and is a member of the `ember-a11y` community team."
       },
@@ -747,7 +747,7 @@
       "attributes": {
         "name": "Todd Jordan",
         "twitter": "https://twitter.com/tddjordan",
-        "photo-url": "http://emberconf.com/images/speakers/todd-jordan.jpg",
+        "photo-url": "/todd-jordan.jpg",
         "bio-html": "Todd is a senior web application developer at Interactive Intelligence with over 16 years of industry software development experience. He is currently working on an ambitious realtime collaboration app, written in Ember. He resides in Raleigh, NC with his wife and three kids.",
         "bio-text": "Todd is a senior web application developer at Interactive Intelligence with over 16 years of industry software development experience. He is currently working on an ambitious realtime collaboration app, written in Ember. He resides in Raleigh, NC with his wife and three kids."
       },
@@ -776,7 +776,7 @@
       "attributes": {
         "name": "Mike North",
         "twitter": "https://twitter.com/MichaelLNorth",
-        "photo-url": "http://emberconf.com/images/speakers/mike-north.jpg",
+        "photo-url": "/mike-north.jpg",
         "bio-html": "Mike is a global speaker, trainer and modern web consultant. Previously he was the CTO of Levanto Financial, and the UI Architect of Yahoo Ads &amp; Data. He's a Front End Masters instructor, a Pluralsight author, and at his core a 'product guy who codes'. Mike has a passion for helping developers master the tools they're working with, in the interest of team productivity and happiness.",
         "bio-text": "Mike is a global speaker, trainer and modern web consultant. Previously he was the CTO of Levanto Financial, and the UI Architect of Yahoo Ads & Data. He's a Front End Masters instructor, a Pluralsight author, and at his core a 'product guy who codes'. Mike has a passion for helping developers master the tools they're working with, in the interest of team productivity and happiness."
       },
@@ -805,14 +805,17 @@
       "id": 1,
       "type": "tags",
       "attributes": {
-        "name": "Keynote"
+        "name": "Keynote",
+        "color": 9287040
+
       }
     },
     {
       "id": 2,
       "type": "tags",
       "attributes": {
-        "name": "Core"
+        "name": "Core",
+        "color": 9340549
       }
     },
     {
@@ -1059,7 +1062,8 @@
       "id": 42,
       "type": "tags",
       "attributes": {
-        "name": "Trainer"
+        "name": "Trainer",
+        "color": 11894927
       }
     },
     {
@@ -1126,7 +1130,8 @@
       "id": 51,
       "type": "tags",
       "attributes": {
-        "name": "BonusConf"
+        "name": "BonusConf",
+        "color": 12361603
       }
     },
     {

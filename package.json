@@ -40,5 +40,8 @@
   "engines": {
     "node": ">= 4"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "ember-svg-jar": "^0.9.3"
+  }
 }

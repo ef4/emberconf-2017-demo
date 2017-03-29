@@ -1,5 +1,15 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
+<h1>EmberConf 2017 Speaker Lineup</h1>
 
-{{outlet}}
+<div class="speakers">
+  {{#each model as |speaker|}}
+    <div class="speaker">
+      <img src={{speaker.photoURL}}>
+      <div>
+        <div class="speaker-name">{{speaker.name}}</div>
+        {{#each speaker.tags as |tag|}}
+          <div class="speaker-tag" style={{background-color tag.color}} >{{tag.name}}</div>
+        {{/each}}
+      </div>
+    </div>
+  {{/each}}
+</div>

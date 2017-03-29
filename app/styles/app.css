@@ -5,7 +5,8 @@ body {
     font-size: 16px;
     color: #323333;
     background-color: #EEEBEB;
-    padding: 0.75em;
+    padding: 0 3em;
+    margin: 0;
 }
 
 h1 {
@@ -68,5 +69,21 @@ h1 {
 }
 
 .speaker-name {
+    flex: 1;
+}
+
+.speaker-page > img {
+    width: 13em;
+    height: 100%;
+    border-radius: 1000px;
+    float: left;
+    margin: 1.5em;
+}
+
+.speaker-page {
+    display: flex;
+}
+
+.speaker-page > div {
     flex: 1;
 }

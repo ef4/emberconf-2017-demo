@@ -1,0 +1,32 @@
+{
+  "attributes": {
+    "is-built-in": null
+  },
+  "relationships": {
+    "fields": {
+      "data": [
+        {
+          "type": "fields",
+          "id": "name"
+        },
+        {
+          "type": "fields",
+          "id": "photo-url"
+        },
+        {
+          "type": "fields",
+          "id": "bio"
+        },
+        {
+          "type": "fields",
+          "id": "tags"
+        },
+        {
+          "type": "fields",
+          "id": "sessions"
+        }
+      ]
+    },
+    "data-source": null
+  }
+}

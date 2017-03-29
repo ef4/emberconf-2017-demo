@@ -5,7 +5,7 @@
     "bio": null
   },
   "relationships": {
-    "tags": { data: [] },
-    "sessions": { data: [] }
+    "tags": { "data": [] },
+    "sessions": { "data": [] }
   }
 }

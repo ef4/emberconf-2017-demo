@@ -1,7 +1,7 @@
 {
   "attributes": {
     "name": "Yehuda Katz",
-    "photo-url": null,
+    "photo-url": "/yehuda-katz.jpg",
     "bio": {
       "version": "0.3.1",
       "atoms": [],
@@ -17,6 +17,18 @@
               [],
               0,
               "This  is the bio."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Let's make it better."
             ]
           ]
         ]

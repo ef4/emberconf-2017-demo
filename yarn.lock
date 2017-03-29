@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@cardstack/core-types@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@cardstack/core-types/-/core-types-0.0.1.tgz#0a622453198993f9a85733caf5fffd039f1a75a0"
+  dependencies:
+    ember-cli-babel "^5.1.7"
+    ember-cli-htmlbars "^1.1.1"
+
 "@cardstack/tools@^0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@cardstack/tools/-/tools-0.0.4.tgz#951224ce0075199bc141d5ce9bb787cb1370bbeb"

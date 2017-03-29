@@ -1,0 +1,18 @@
+<div class="speaker-page">
+  <img src={{content.photoURL}} />
+  <div>
+    <h1>{{cs-field content "name"}}</h1>
+
+    {{!-- triple curlies could be dangerous if we start letting users edit the bio --}}
+    <div class="bio">
+      {{{content.bioHTML}}}
+    </div>
+
+    <ul>
+      {{#each content.sessions as |session|}}
+      <li>{{session.title}}</li>
+      {{/each}}
+    </ul>
+  </div>
+
+</div>

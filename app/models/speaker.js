@@ -11,8 +11,8 @@ export default DS.Model.extend({
     return this.constructor.modelName;
   }),
   save() {
-    if (this.get('isNew') && !this.get('slug')) {
-      this.set('slug', this.get('name').replace(' ', '-').replace(/^a-zA-Z-/g, ''));
+    if (!this.get('slug')) {
+      this.set('slug', this.get('name').toLowerCase().replace(' ', '-').replace(/^a-zA-Z-/g, ''));
     }
     this._super.apply(this, arguments);
   }

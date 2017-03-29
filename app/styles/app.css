@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     color: #323333;
     background-color: #EEEBEB;
+    padding: 0.75em;
 }
 
 h1 {
@@ -20,8 +21,19 @@ h1 {
     width: 16.125em;
     height: 22em;
     background-color: white;
-    margin: 0.5em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    cursor: pointer;
 }
+
+.speaker:hover {
+    background: #d9d9d9;
+}
+
+.speaker:hover img {
+    opacity: .8;
+}
+
 
 .speaker > div {
     padding: 0.75em;
